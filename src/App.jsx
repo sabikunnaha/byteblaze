@@ -6,12 +6,9 @@ import Home from './Paiges/Home'
 
 function App() {
 
-
   return (
     <>
-      
-      <Home  ></Home>
-   
+      <Home ></Home>
       <Blogs></Blogs>
       <Bookmark></Bookmark>
     </>
